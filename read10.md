@@ -1,6 +1,3 @@
-¡Claro! Aquí tienes respuestas breves a tus preguntas:
-
----
 
 1. ¿Qué es “Control Flow” (Control de Flujo)?**
 El Control de Flujo es el orden en que se ejecutan las instrucciones en un programa. Se maneja con estructuras como:
