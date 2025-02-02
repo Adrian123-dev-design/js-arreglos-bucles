@@ -38,4 +38,4 @@ console.log(array); // [1, 2, 3, 4]
 
 ---
 
-¡Espero que estas respuestas te sean útiles! 😊
+
